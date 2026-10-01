@@ -1,0 +1,10 @@
+{
+  "description": "Streamline your application process with user-friendly guidelines designed for applicants to easily navigate requirements and submit documents efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
